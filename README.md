@@ -2,6 +2,10 @@
 
 A premium, minimalist, always-on-top desktop widget for Windows. Built with Python and PyQt6, featuring a modern dark-themed Control Panel, Pomodoro tracking, and a click-through "Ghost Mode".
 
+<img width="352" height="71" alt="Screenshot 2026-02-28 023415" src="https://github.com/user-attachments/assets/90f91a48-5577-4d8a-88a6-0ab8d7a448a4" />
+<img width="343" height="65" alt="Screenshot 2026-02-28 023347" src="https://github.com/user-attachments/assets/20552cbd-2625-42ef-9dfd-911085415611" />
+
+
 ## 🚀 New in v2.0
 
 - **Ghost Mode (Click-Through):** Make the widget completely unclickable. The text hollows out into a sleek outline, allowing you to click through it into your apps (Photoshop, VS Code, Games) while keeping the time visible.
